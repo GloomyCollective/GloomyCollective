@@ -75,7 +75,7 @@ We are currently in therapy to be a better person! (˶>⩊<˶)
 
 <p align="center">
 
-[Strawpage]((https://dreempurr.straw.page/))
+[Strawpage](https://dreempurr.straw.page/)
 
 [ToneTags Guide](https://tonetaglist.carrd.co/)
 
