@@ -8,85 +8,52 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=GloomyCollective&label=PROFILE%20VIEWS&color=E9B949&style=flat-square)](https://github.com/YOUR-GITHUB-USERNAME)
 
-![System](https://img.shields.io/badge/SYSTEM-OSDD1A-C94B5C?style=flat-square)
-
-![System](https://img.shields.io/badge/SYSTEM-YES-C94B5C?style=flat-square)
-
-[![Pixels](https://img.shields.io/badge/PIXELS-HERE-E9B949?style=for-the-badge)](media/pixels/)
-
 </p>
 
 <p align="center">
   🌼 ─────────────── 🌼
 </p>
 
-## 🌼 WELCOME!
+## .　⟢　{🌈} Welcome ! 　　˘
 
-> Welcome to our little corner of the Garden!
+> This is info for when we play games ,,
 
-We're **[NAME / SYSTEM NAME]**, a system using this repository as a place for people to learn more about us.
+We go by @GloomyCollective. .
 
-Information here is only what we're comfortable sharing publicly. Please respect everyone's individual boundaries, names, and pronouns.
+Information here is only what we're comfortable sharing publicly to **hopefully** make friends!
 
 ---
 
 ## 🌼 ABOUT US
 
-**Name:** [NAME / SYSTEM NAME]
+**Name:** GloomyCollective
 
-**Pronouns:** [PRONOUNS]
+**Pronouns:** He/Him , They/Them , We/Us
 
-**System:** Yes
+**System:** OSDD-1A
 
-**Timezone:** [TIMEZONE]
+**Timezone:** EST
 
-**Status:** [STATUS]
+**Status:** TAKEN, , 
 
-**Collective name:** [NAME]
+**Collective name:** Kris ! ! (˶˃ ᵕ ˂˶)
 
 ### ✦ A little about us
 
-[WRITE A SHORT DESCRIPTION ABOUT THE SYSTEM HERE.]
+We are a mentally Ill teenager who. We have a job so we aren't online around 6pm - 1am! 
+We are currently in therapy to be a better person! (˶>⩊<˶)
 
 ---
 
-## 🌼 CURRENTLY FRONTING
+## 🌼 (MAIN) INTERESTS (๑ᵔ⤙ᵔ๑)
 
-> This section can be updated whenever needed!
+♡ Dandys World
 
-**Currently fronting:**
-[NAME]
+♡ Coding
 
-**Co-fronting:**
-[NAME / NONE]
+♡ Resident evil, Cry of fear, Naruto(series) games, Horror games/Movies
 
-**Last updated:** [DATE]
-
----
-
-## 🌼 SYSTEM MEMBERS
-
-| Name   | Pronouns   | Role   |
-| ------ | ---------- | ------ |
-| [NAME] | [PRONOUNS] | [ROLE] |
-| [NAME] | [PRONOUNS] | [ROLE] |
-| [NAME] | [PRONOUNS] | [ROLE] |
-
-→ [View the full member list](system/members.md)
-
----
-
-## 🌼 INTERESTS
-
-♡ [INTEREST]
-
-♡ [INTEREST]
-
-♡ [INTEREST]
-
-♡ [INTEREST]
-
-♡ [INTEREST]
+♡ Art
 
 ---
 
@@ -100,99 +67,47 @@ Information here is only what we're comfortable sharing publicly. Please respect
 * Don't intentionally provoke or upset members.
 * Don't pressure anyone to front.
 * Don't share private information without permission.
-* [CUSTOM BOUNDARY]
-* [CUSTOM BOUNDARY]
-
-→ [Read our full boundaries](profile/boundaries.md)
-
+* Don't randomly vent to us, ask first unless we are close.
+* Don't flirt with us.
 ---
 
-# 🌼 OUR LINKS
+# 🌼 OUR LINKS ꉂ(˵˃ ᗜ ˂˵)
 
 <p align="center">
 
-[![Discord](https://img.shields.io/badge/DISCORD-C94B5C?style=for-the-badge\&logo=discord\&logoColor=white)](PASTE-DISCORD-LINK-HERE)
+[![Strawpage]((https://dreempurr.straw.page/))
 
-[![Website](https://img.shields.io/badge/WEBSITE-E9B949?style=for-the-badge\&logo=googlechrome\&logoColor=white)](PASTE-WEBSITE-LINK-HERE)
+[![ToneTags Guide](https://tonetaglist.carrd.co/)
 
-[![Pronouns](https://img.shields.io/badge/PRONOUNS-7B4A35?style=for-the-badge)](PASTE-PRONOUNS-LINK-HERE)
-
-[![Other](https://img.shields.io/badge/OTHER-C94B5C?style=for-the-badge)](PASTE-LINK-HERE)
+[![More info!](https://dreempurr.neocities.org/)
 
 </p>
-
----
-
-# 🌼 PROFILE IMAGE
-
-Replace the link below with the direct link to your PFP.
 
 <p align="center">
-  <img src="PASTE-PFP-LINK-HERE" width="200">
+  
+ <p align="center"> <img src="https://64.media.tumblr.com/01633c74b2e048cb304122b8659d5e49/bf651e852cffb3fa-2b/s1280x1920/2d696b1f6980d275edcdda773b0a463ce3072491.pnj" width="200"> </p>
 </p>
-
----
-
-# 🌼 BANNER
-
-Replace the link below with your banner image.
-
-<p align="center">
-  <img src="PASTE-BANNER-LINK-HERE" width="100%">
-</p>
-
----
-
-# 🌼 PIXELS & DECORATIONS
-
-Put your favorite pixels, stamps, blinkies, and decorations here!
 
 <p align="center">
 
-<img src="PASTE-PIXEL-LINK-HERE">
+<img src="https://64.media.tumblr.com/0f9d8aca08afd145b558b3ae87f3cfa3/2c5c862d9264d999-c7/s250x400/82a4c6e6d986dd91c93ed54edac253f41a977b5f.gifv">
 
-<img src="PASTE-PIXEL-LINK-HERE">
-
-<img src="PASTE-PIXEL-LINK-HERE">
+<img src="(https://64.media.tumblr.com/9f7d8641827ceb7d711409d74394e8ca/2c5c862d9264d999-fc/s250x400/b3d4aad4c1caad81537cabf3519623735cb6d6d1.gifv)">
 
 </p>
-
-### ♡ Blinkies
-
-<p align="center">
-
-<img src="PASTE-BLINKIE-LINK-HERE">
-
-<img src="PASTE-BLINKIE-LINK-HERE">
-
-</p>
-
-### ♡ Stamps
-
-<p align="center">
-
-<img src="PASTE-STAMP-LINK-HERE">
-
-<img src="PASTE-STAMP-LINK-HERE">
-
-<img src="PASTE-STAMP-LINK-HERE">
-
-</p>
-
----
 
 # 🌼 EXTRA
 
-Anything else you'd like people to know:
+More info : :
 
-> [WRITE HERE]
+> Keep in mind we are heavily autistic and would like patience with us. We are also very sensitive with a short temper which we are getting help for! 
 
 <p align="center">
-  <img src="PASTE-DECORATION-LINK-HERE">
+  <img src="https://64.media.tumblr.com/08c103be09ae41aa0492cb3678d9a3d5/f5843b57eb67b22f-25/s2048x3072/fb221af18c90efaeb8a0a90fcfde97c8fc4a2545.pnj">
 </p>
 
 <p align="center">
 
-🌼 **Thanks for visiting our garden!** 🌼
+🌼 **OKAY BYEEE (˶˃𐃷˂˶)** 🌼
 
 </p>
