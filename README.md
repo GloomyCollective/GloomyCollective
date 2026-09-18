@@ -1,7 +1,7 @@
 # 🌼 DANDY'S LITTLE CORNER
 
 <p align="center">
-  <img src="PASTE-BANNER-LINK-HERE" width="100%">
+  <img src="https://64.media.tumblr.com/0ab119a82333f7c57ca43c8737ea64be/983949abc2320472-50/s2048x3072/cfe3b5e2743d2f60d0d1cbb73057daab17127b40.pnj" width="100%">
 </p>
 
 <p align="center">
