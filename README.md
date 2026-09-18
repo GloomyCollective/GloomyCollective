@@ -6,11 +6,11 @@
 
 <p align="center">
 
-[![Views](https://komarev.com/ghpvc/?username=GloomyCollective\&label=VIEWS\&color=E9B949\&style=for-the-badge)](https://github.com/YOUR-GITHUB-USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=GloomyCollective&label=PROFILE%20VIEWS&color=E9B949&style=flat-square)](https://github.com/YOUR-GITHUB-USERNAME)
 
-![System](https://img.shields.io/badge/SYSTEM-YES-C94B5C?style=for-the-badge)
+![System](https://img.shields.io/badge/SYSTEM-OSDD1A-C94B5C?style=flat-square)
 
-[![Profile](https://img.shields.io/badge/PROFILE-INFO-7B4A35?style=for-the-badge)](profile/about.md)
+![System](https://img.shields.io/badge/SYSTEM-YES-C94B5C?style=flat-square)
 
 [![Pixels](https://img.shields.io/badge/PIXELS-HERE-E9B949?style=for-the-badge)](media/pixels/)
 
