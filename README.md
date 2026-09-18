@@ -6,7 +6,7 @@
 
 <p align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=GloomyCollective&label=PROFILE%20VIEWS&color=E9B949&style=flat-square)](https://github.com/YOUR-GITHUB-USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=GloomyCollective&label=PROFILE%20VIEWS&color=E9B949&style=flat-square)](https://github.com/GloomyCollective)
 
 </p>
 
