@@ -6,7 +6,7 @@
 
 <p align="center">
 
-[![Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME\&label=VIEWS\&color=E9B949\&style=for-the-badge)](https://github.com/YOUR-GITHUB-USERNAME)
+[![Views](https://komarev.com/ghpvc/?username=GloomyCollective\&label=VIEWS\&color=E9B949\&style=for-the-badge)](https://github.com/YOUR-GITHUB-USERNAME)
 
 ![System](https://img.shields.io/badge/SYSTEM-YES-C94B5C?style=for-the-badge)
 
