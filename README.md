@@ -1,63 +1,99 @@
+# ✦ [NAME / DISPLAY NAME]
+
+> [SHORT QUOTE / STATUS]
+
+[![Profile](https://img.shields.io/badge/profile-info-...)](...)
+[![System](https://img.shields.io/badge/system-info-...)](...)
+
+<!-- BANNER IMAGE -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=🍥%20views&color=FF8C00&style=flat">
+  <img src="media/banner.png" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://64.media.tumblr.com/93d7f0e26b7338b377f9951d7414febe/98932c677fd05346-aa/s2048x3072/2d5d399b7bd948ba9d1664331ff007eb88ff4903.jpg" width="150" style="border-radius:50%; border:3px solid #FF8C00;">
-</p>
+---
 
-<h1 align="center">🍥 ‧˚꒰🐾୭ ˚. gaara / senpai ᵎᵎ 🍥</h1>
+## ♡ about
+
+**name:** [name]  
+**pronouns:** [pronouns]  
+**age:** [age / age range, if they want it public]  
+**timezone:** [timezone]  
+**status:** [status]
+
+[SHORT ABOUT THEM]
+
+---
+
+## ◈ system
+
+This repository belongs to a **system**.
+
+> Information about the system is shared here for people who want to understand
+> us and interact with us respectfully.
+
+**system name:** [name]  
+**collective pronouns:** [pronouns]  
+**system type:** [whatever they are comfortable sharing]  
+**members:** [number / "many" / "not publicly listed"]
+
+→ [Read more about the system](system/system-info.md)
+
+---
+
+## ✦ current fronter(s)
+
+**currently fronting:**  
+> [name(s)]
+
+**last updated:** [date]
+
+For more information:
+
+→ [Fronter information](system/fronters.md)
+
+---
+
+## ♡ interests
+
+- [interest]
+- [interest]
+- [interest]
+- [interest]
+- [interest]
+
+---
+
+## ⟡ boundaries
+
+### Please do:
+- Respect our names and pronouns.
+- Ask before making assumptions about us.
+- Respect individual boundaries.
+- [custom boundary]
+
+### Please don't:
+- [boundary]
+- [boundary]
+- [boundary]
+
+→ [Full boundaries](profile/boundaries.md)
+
+---
+
+## ⛓ links
+
+- [Discord]
+- [Carrd / Neocities]
+- [Pronouns page]
+- [Other profile]
+- [Game profile]
+
+---
+
+<!-- DECORATIONS -->
 
 <p align="center">
-  future hokage ✦ never giving up ✦ he,we ~ Taken ! ✦ (heh sasukes int, i need a sasuke to my naruto wink wink)
-</p>
-
-<p align="center">
-  ───── 🍥 ─────
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ninja-mode-FF8C00?style=flat">
-  <img src="https://img.shields.io/badge/ramen-lover-FF8C00?style=flat">
-  <img src="https://img.shields.io/badge/shadow%20clone-user-FF8C00?style=flat">
-</p>
-
-<p align="center">
-  ───── 🍥 ABOUT ME 🍥 ─────
-</p>
-
-<p align="center">
-  Mentally ill <br>
-  i like gaming, roleplaying, anime and coding. <br>
-  TSHD enthusiast
-</p>
-
-<p align="center">
-  ───── 🍥 SOCIALS 🍥 ─────
-</p>
-
-<p align="center">
-   <a href="https://hokvii.carrd.co/">My carrd!</a> 🍥
-  <a href="https://hokvii.straw.page/">strawpage</a>
-</p>
-
-<p align="center">
-  ───── 🍥 IMPORTANT 🍥 ─────
-</p>
-
-<p align="center">
-  please respect boundaries <br>
-  PLS do not flirt with me, I have a gf (unless given permission)
-</p>
-
-<p align="center">
-  ───── 🍥 FANDOMS 🍥 ─────
-</p>
-
-<p align="center">
-  naruto 🍥 jjk 🍥 TSHD 🍥 ask (all fandoms are on my carrd)
-</p>
-
-<p align="center">
-  dattebayo! 🍥
+  <img src="media/pixels/pixel1.gif">
+  <img src="media/pixels/pixel2.gif">
+  <img src="media/pixels/pixel3.gif">
 </p>
